@@ -100,4 +100,4 @@ func print(car: TrunkCar) {
 print(car: car1)
 print(car: car2)
 print(car: car3)
-//Изменения
+//Изменения 123
